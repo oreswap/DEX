@@ -1,4 +1,4 @@
-OreSwap DEX on Orenium Blockchain
+OreSwap DEX on BNB Chain, Core DAO and Orenium Blockchain (multichain dexes)
 
 DEX url : https://oreswap.xyz
 
